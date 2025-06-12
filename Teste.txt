@@ -1,1 +1,2 @@
-Texto digitado no github. Alterado no bloco de notas.   12/06/2025. Vai voltar.
+Texto digitado no github. Alterado no bloco de notas.   12/06/2025. Vai voltar.  Vai só por linha de comando bash.
+
